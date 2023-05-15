@@ -1,2 +1,2 @@
 print "Hello Ruby!\n"
-print "Goodbye Ruby!\n"
+print "where is groudon?\n"
